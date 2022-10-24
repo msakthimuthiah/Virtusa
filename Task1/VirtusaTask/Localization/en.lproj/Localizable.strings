@@ -1,0 +1,27 @@
+﻿
+//For Localization
+
+"Something_Went_Wrong_AlertMessage" = "Sorry, Something went wrong";
+"InternetConnection_AlertMessage" = "Please connect with internet and try again";
+"No_Contacts_AlertMessage" = "Contact list is empty";
+"No_Boardrooms_AlertMessage" = "Boardroom list is empty";
+"Loading_AlertMessage" = "Please wait...loading...";
+
+"VirtusaTask_Title" = "VIRTUSA TASK";
+"Contacts_Title" = "CONTACTS";
+"Boardrooms_Title" = "BOARDROOMS";
+
+"Search_Title" = "Search";
+
+"Contact_Details_Title" = "CONTACT DETAILS";
+"Id_Title" = "ID";
+"Name_Title" = "NAME";
+"JobTitle_Title" = "JOB TITLE";
+"Email_Title" = "EMAIL";
+"Favourite_Color_Title" = "FAVOURITE COLOR";
+
+"Availability_Title" = "Availability";
+"MaxOccupancy_Title" = "MAX OCCUPANCY";
+"Available_Title" = "Available";
+"NotAvailable_Title" = "Not Available";
+
